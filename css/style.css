@@ -661,7 +661,7 @@ li {
     position: relative;
     /*background-position: center center !important;*/
     background-size: cover !important;
-    background: url("../img/para-bg.jpg");
+    background: url("../img/event-bg.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: #ffffff;
